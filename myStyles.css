@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url("images/back.jpg");
+
+}
+
+.header {
+	font-family: 'Palanquin Dark', sans-serif;
+
+}
+
+.Previous {
+	text-align: center;
+	width: 33%;
+}
+
+.month {
+	text-align: center;
+	width: 33%;
+}
+
+.Next {
+	text-align: center;
+	width: 33%;
+}
