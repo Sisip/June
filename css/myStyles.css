@@ -1,25 +1,12 @@
 body {
 	margin: 0;
 	padding: 0;
-
+	font-family: 'Noto Sans', sans-serif;
+	background-image: url(images/imgres.jpg) width = "500%";
 }
 
-.header {
-	font-family: 'Palanquin Dark', sans-serif;
-
-}
-
-.Previous {
-	text-align: center;
-	width: 33%;
-}
 
 .month {
-	text-align: center;
-	width: 33%;
-}
-
-.Next {
-	text-align: center;
-	width: 33%;
+	background-color: #e67300;
+	float: left;
 }
