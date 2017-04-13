@@ -1,25 +1,30 @@
 body {
 	margin: 0;
 	padding: 0;
-
+	font-family: 'Noto Sans', sans-serif;
+	background-image: url(images/imgres.jpg) width = "500%";
 }
 
-.header {
-	font-family: 'Palanquin Dark', sans-serif;
-
-}
-
-.Previous {
-	text-align: center;
-	width: 33%;
-}
 
 .month {
-	text-align: center;
-	width: 33%;
+	background-color: #e67300;
+	float: left;
 }
 
-.Next {
-	text-align: center;
-	width: 33%;
+
+a.mButton {
+
+	font-family: 'Spirax', cursive;
+	background-color: dodgerblue;
+	font-size: 1.5em;
+	color: white;
+	text-decoration: none;
+	border: none;
+	width: 50px; 
+	margin:0;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-radius: 50%;
 }
